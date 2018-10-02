@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/425053/c18f11a9d5524e67a2b6db248ef6a1e2
+bundleId: https://api.rpubs.com/api/v1/document/425053/c18f11a9d5524e67a2b6db248ef6a1e2
+url: http://rpubs.com/vmahajanam/425053
+when: 1538458633.06628
